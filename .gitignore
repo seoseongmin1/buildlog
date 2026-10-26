@@ -10,6 +10,10 @@ node_modules/
 # 생성 결과
 dist/
 __pycache__/
+.pytest_cache/
+
+# 데이터베이스 파일
+*.sqlite3
 
 # 로그 파일
 *.log
